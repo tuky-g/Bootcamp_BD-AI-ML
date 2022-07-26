@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"> <!--hoja de estilos-->
+    <script src="https://d3js.org/d3.v5.min.js"></script> <!-- librería D3-->
+    <title>sgv</title>
+</head>
+<body>
+    <div>
+        <svg width="800" height="500">
+            <g>
+                <rect class="bar" x="0" y="100" width="200" height="50"></rect>
+                <circle cx="250" cy="200" r="20"></circle>
+            </g>
+            <g>
+                <line x1="0" y1="0" x2="800" y2="500" stroke="black" stroke-width="10"></line> <!--por defecto se pintan solo los rellenos, para ver las lineas necesitamos stroke que es es borde-->
+                <path d="M100,160 Q128,190 156,160" fill="none" stroke="blue" stroke-width="5"></path>
+            </g>
+        </svg>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
