@@ -39,7 +39,7 @@ d3.csv("data.csv").then(data =>{
         d.year = formatTime(d.year)
     })
 
-    const wins_tot = d3.nest().key(d => d.winner).entries(data)
+    const wins_tot = d3.nest().key(d => d.winner).entries(data.filter(d=> d.winner != ''))
 
     // // obtengo los años de los mundiales
     years = data.map(d => d.year)
@@ -53,8 +53,9 @@ d3.csv("data.csv").then(data =>{
 
     //dominio
     x.domain([0, d3.max(wins_tot.map(w=>w.values.length))])
-    y.domain(data.map(d => d.winner))
+    y.domain(data.filter(d=> d.winner != '').map(d => d.winner))
 
+   
     // dibujo los ejes
     xAxisGroup.call(xAxis)
     yAxisGroup.call(yAxis)
@@ -109,6 +110,7 @@ const formatTime= d3.timeParse("%Y")
 
 function filteryear(data, year){
     data_filtered = data.filter(d=> d.year<=year)
+    data_filtered = data_filtered.filter(d=> d.winner != '')
     const wins = d3.nest().key(d => d.winner).entries(data_filtered)
     return wins    
 }
