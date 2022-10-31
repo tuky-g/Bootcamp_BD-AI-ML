@@ -1,0 +1,8 @@
+div {
+    position: absolute;
+    margin-top: 100px;
+}
+
+.bar {
+    fill: red;
+}

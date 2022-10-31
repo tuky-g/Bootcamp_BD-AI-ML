@@ -1,0 +1,23 @@
+circle {
+    fill-opacity: 0.8;
+}
+
+.Africa {
+    fill: lightgreen;
+}
+
+.Europe {
+    fill: salmon;
+}
+
+.Americas {
+    fill: lightblue;
+}
+
+.Oceania {
+    fill: yellowgreen;
+}
+
+.Asia {
+    fill: orange;    
+}
