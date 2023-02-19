@@ -1,0 +1,6 @@
+No me fue posible ejecutar todo en colab de una y he ido guardando los resultados de los modelos
+para verlos todos al final.
+Los archivos se ejeuctarían en el orden:
+1- Extraer datos y preprocesado
+2- Modelos
+3- Evaluación de modelos
