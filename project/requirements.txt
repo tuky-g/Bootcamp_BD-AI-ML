@@ -1,0 +1,4 @@
+pytz
+tweepy
+loguru==0.5.3
+google-cloud-pubsub==2.1.0

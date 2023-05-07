@@ -1,0 +1,610 @@
+question,cluster,key
+Student International Grade (Derived),0,ST001D01T
+Student (Standardized) Birth - Month,0,ST003D02T
+Student (Standardized) Birth -Year,0,ST003D03T
+Student (Standardized) Gender,0,ST004D01T
+What is the  highest level of schooling  completed by your mother?,0,ST005Q01TA
+Does your mother have this qualification?    level 6  (incl. higher qualifications at level 5A in some countries),0,ST006Q01TA
+Does your mother have this qualification?    level 5A  (excl. higher qualifications at level 5A in some countries),0,ST006Q02TA
+Does your mother have any of the following qualifications?    level 5B ,0,ST006Q03TA
+What is the  highest level of schooling  completed by your father?,0,ST007Q01TA
+Does your father have this qualification?    level 6  (incl. higher qualifications at level 5A in some countries),0,ST008Q01TA
+Does your father have this qualification?    level 5A  (excl. higher qualifications at level 5A in some countries),0,ST008Q02TA
+Does your father have any of the following qualifications?    level 5B ,0,ST008Q03TA
+In your home: A quiet place to study,0,ST011Q03TA
+In your home: Books to help with your school work,0,ST011Q10TA
+How old were you when you started    0 ? Years,0,ST125Q01NA
+How old were you when you started    1 ? Years,0,ST126Q01TA
+Have you ever repeated a  grade ? At    1 ,0,ST127Q01TA
+Have you ever repeated a  grade ? At    2 ,0,ST127Q02TA
+Which language do you usually speak with: My schoolmates,0,ST023Q05TA
+How often during  test language lessons : Students don't listen to what the teacher says.,0,ST097Q01TA
+How often during  test language lessons : There is noise and disorder.,0,ST097Q02TA
+How often during  test language lessons : The teacher waits long for students to quiet down.,0,ST097Q03TA
+How often during  test language lessons : Students cannot work well.,0,ST097Q04TA
+How often during  test language lessons : Students don't start working for a long time after the lesson begins.,0,ST097Q05TA
+How often during  test language lessons : The teacher shows aninterest in every student's learning.,0,ST100Q01TA
+How often during  test language lessons : The teacher gives extra help when students need it.,0,ST100Q02TA
+How often during  test language lessons : The teacher helps students with their learning.,0,ST100Q03TA
+How often during  test language lessons : The teacher continues teaching until the students understands.,0,ST100Q04TA
+How often during  test language lessons : The teacher sets clear goals for our learning.,0,ST102Q01TA
+How often during  test language lessons : The teacher asks questions to check whether we have understood what was taught,0,ST102Q02TA
+How often during  test language lessons : [...] the teacher presents a short summary of the previous lesson.,0,ST102Q03TA
+How often during  test language lessons : The teacher tells us what we have to learn.,0,ST102Q04TA
+Thinking of past two  test language lessons : The teacher made me feel confident in my ability to do well in the course.,0,ST211Q01HA
+Thinking of past two  test language lessons : The teacher listened to my view on how to do things.,0,ST211Q02HA
+Thinking of past two  test language lessons : I felt that my teacher understood me.,0,ST211Q03HA
+How often in  test language lessons : The teacher adapts the lesson to my classs needs and knowledge.,0,ST212Q01HA
+How often in  test language lessons : The teacher provides individual help when a student has difficulties [...],0,ST212Q02HA
+How often in  test language lessons : The teacher changes the structure of the lesson on a topic that most [...],0,ST212Q03HA
+How often during  test language lessons : The teacher gives me feedback on my strengths in this subject.,0,ST104Q02NA
+How often during  test language lessons : The teacher tells me in which areas I can still improve.,0,ST104Q03NA
+How often during  test language lessons : The teacher tells me how I can improve my performance.,0,ST104Q04NA
+Thinking of past two  test language lessons : It was clear to me that the teacher liked teaching us.,0,ST213Q01HA
+Thinking of past two  test language lessons : The enthusiasm of the teacher inspired me.,0,ST213Q02HA
+Thinking of past two  test language lessons : It was clear that the teacher likes to deal with the topic of the lesson.,0,ST213Q03HA
+Thinking of past two  test language lessons : The teacher showed enjoyment in teaching.,0,ST213Q04HA
+"During the last month, how often did you have to read for school: Texts that include diagrams or maps",0,ST150Q01IA
+"During the last month, how often did you have to read for school: Fiction (e.g., novels, short stories)",0,ST150Q02IA
+"During the last month, how often did you have to read for school: Texts that include tables or graphs",0,ST150Q03IA
+"During the last month, how often did you have to read for school: Digital texts including links",0,ST150Q04HA
+"In your  test language lessons , how often: The teacher encourages students to express their opinion about a text.",0,ST152Q05IA
+"In your  test language lessons , how often: The teacher helps students relate the stories they read to their lives.",0,ST152Q06IA
+"In your  test language lessons , how often: The teacher shows students how the information in texts builds on [...]",0,ST152Q07IA
+"In your  test language lessons , how often: The teacher poses questions that motivate students to participate actively.",0,ST152Q08IA
+" this academic year , how many pages was the longest piece of text you had to read for your  test language lessons ?",0,ST154Q01HA
+"When you have to read, does the teacher ask you to: Write a summary of the book or the chapter",0,ST153Q01HA
+"When you have to read, does the teacher ask you to: List and write a short description of the main characters",0,ST153Q02HA
+"When you have to read, does the teacher ask you to: Discuss in small groups with other students who read the same [...]",0,ST153Q03HA
+"When you have to read, does the teacher ask you to: Give your personal thoughts about the book or the chapter [...]",0,ST153Q04HA
+"When you have to read, does the teacher ask you to: Answer questions about the book or the chapter",0,ST153Q05HA
+"When you have to read, does the teacher ask you to: Compare the content of the book or the chapter with your own [...]",0,ST153Q06HA
+"When you have to read, does the teacher ask you to: Compare the book with other books or texts on a similar topic",0,ST153Q08HA
+"When you have to read, does the teacher ask you to: Select a passage you liked or disliked and explain why",0,ST153Q09HA
+"When you have to read, does the teacher ask you to: Write a text related to what you have read",0,ST153Q10HA
+"Taught at school: How to use keywords when using a search engine such as  Google ,  Yahoo , etc.",0,ST158Q01HA
+Taught at school: How to compare different web pages and decide what information is more relevant for your school work,0,ST158Q03HA
+Taught at school: How to use the short description below the links in the list of results of a search,0,ST158Q05HA
+Taught at school: How to detect whether the information is subjective or biased,0,ST158Q06HA
+How often involved in: Searching information online to learn about a particular topic,0,ST176Q05IA
+Thinking about your school: Trying hard at school will help me get a good job.,0,ST036Q05TA
+Thinking about your school: Trying hard at school will help me get into a good  college .,0,ST036Q06TA
+Thinking about your school: Trying hard at school is important.,0,ST036Q08TA
+How true for you: My goal is to understand the content of my classes as thoroughly as possible.,0,ST208Q04HA
+Thinking about your school: I feel like an outsider (or left out of things) at school.,0,ST034Q01TA
+Thinking about your school: I make friends easily at school.,0,ST034Q02TA
+Thinking about your school: I feel like I belong at school.,0,ST034Q03TA
+Thinking about your school: I feel awkward and out of place in my school.,0,ST034Q04TA
+Thinking about your school: Other students seem to like me.,0,ST034Q05TA
+Thinking about your school: I feel lonely at school.,0,ST034Q06TA
+Agree: Immigrant children should have the same opportunities for education that other children in the country have.,0,ST204Q02HA
+How many foreign languages do you learn at your school this school year?,0,ST189Q01HA
+At school: I learn how to communicate with people from different backgrounds.,0,ST221Q11HA
+Did you change schools when you were attending    1 ?,0,EC031Q01TA
+Did you change schools when you were attending    2 ?,0,EC032Q01TA
+Have you ever changed your  study programme ?,0,EC033Q01NA
+Find out about future study or types of work: I spoke to a  career advisor  at my school.,0,EC150Q04WA
+Find out about future study or types of work: I spoke to a  career advisor  outside of my school.,0,EC150Q05WA
+"Acquired skills: How to find information on jobs I am interested in. Yes, at school",0,EC151Q01WA
+"Acquired skills: How to find information on jobs I am interested in. Yes, out of school",0,EC151Q01WB
+"Acquired skills: How to find information on jobs I am interested in. No, never",0,EC151Q01WC
+"Acquired skills: How to search for a job. Yes, at school",0,EC151Q02WA
+"Acquired skills: How to search for a job. Yes, out of school",0,EC151Q02WB
+"Acquired skills: How to search for a job. No, never",0,EC151Q02WC
+"Acquired skills: How to write a  rsum  or a summary of my qualifications. Yes, at school",0,EC151Q03WA
+"Acquired skills: How to write a  rsum  or a summary of my qualifications. Yes, out of school",0,EC151Q03WB
+"Acquired skills: How to write a  rsum  or a summary of my qualifications. No, never",0,EC151Q03WC
+"Acquired skills: How to prepare for a job interview. Yes, at school",0,EC151Q04WA
+"Acquired skills: How to prepare for a job interview. Yes, out of school",0,EC151Q04WB
+"Acquired skills: How to prepare for a job interview. No, never",0,EC151Q04WC
+"Acquired skills: How to find information on student financing (e.g. student loans or grants). Yes, at school",0,EC151Q05WA
+"Acquired skills: How to find information on student financing (e.g. student loans or grants). Yes, out of school",0,EC151Q05WB
+"Acquired skills: How to find information on student financing (e.g. student loans or grants). No, never",0,EC151Q05WC
+Importance for decisions about future occupation: My school grades,0,EC153Q03HA
+"If you had the opportunity to participate in a student exchange programme [...], would you like to take part?",0,EC160Q01HA
+"Learned how to manage your money in a course: At school, in a subject or course specifically about managing your money",0,FL150Q01TA
+Learned how to manage your money in a course: At school as part of another subject or course,0,FL150Q02TA
+Learned how to manage your money in a course: In an activity outside school,0,FL150Q03TA
+Text books used in the last 12 months: Have you had a specific text book on money matters?,0,FL151Q01HA
+Text books used in the last 12 months: Have you had a text book on some other subject that discusses money matters?,0,FL151Q02HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Interest payment",0,FL164Q01HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Compound interest",0,FL164Q02HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Exchange rate",0,FL164Q03HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Depreciation",0,FL164Q04HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Shares/stocks",0,FL164Q05HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Return on investment",0,FL164Q06HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Dividend",0,FL164Q07HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Diversification",0,FL164Q08HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Debit card",0,FL164Q09HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Bank loan",0,FL164Q10HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Pension plan",0,FL164Q11HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Budget",0,FL164Q12HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Wage",0,FL164Q13HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Entrepreneur",0,FL164Q14HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Central bank",0,FL164Q15HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Income tax",0,FL164Q16HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Credit default swap",0,FL164Q17HA
+"School lessons in the last 12 months, have you heard of, or learnt about, the following term: Call option",0,FL164Q18HA
+Encountered types of problems about money matters: During your mathematics class,0,FL165Q01HA
+Encountered types of problems about money matters: During another class,0,FL165Q02HA
+Encountered types of problems about money matters: During [...] school time from an outside visitor [...],0,FL165Q03HA
+Encountered types of problems about money matters: During extra-curricular activity outside of school time,0,FL165Q04HA
+Encountered in a school lesson in the last 12 months: Describing the purpose and uses of money,0,FL166Q01HA
+Encountered in a school lesson in the last 12 months: Exploring the difference between spending money on needs and wants,0,FL166Q02HA
+Encountered in a school lesson in the last 12 months: Exploring ways of planning to pay an expense,0,FL166Q03HA
+Encountered in a school lesson in the last 12 months: Discussing the ways in which money invested in the stock [...],0,FL166Q06HA
+Encountered in a school lesson in the last 12 months: Analysing advertisements to understand how they encourage [...],0,FL166Q07HA
+"Get information about money matters (spending, saving, banking, investment): Teachers",0,FL153Q06HA
+"Do you get money from any of these sources? Working outside school hours (e.g. a holiday job, part-time work)",0,FL156Q03TA
+In the last 12 months: Talked to someone about the job you would like to do when you finish your education,0,FL168Q02HA
+How much effort did you put into this test?,0,EFFORT1
+Grade compared to modal grade in country,0,GRADE
+Age,0,AGE
+Mothers Education ( ),0,MISCED
+Fathers Education ( ),0,FISCED
+Highest Education of parents ( ),0,HISCED
+Index highest parental education in years of schooling,0,PARED
+Mothers Education - alternate definition ( ),0,MISCED_D
+Fathers Education - alternate definition ( ),0,FISCED_D
+Highest Education of parents - alternate definition ( ),0,HISCED_D
+Index highest parental education (international years of schooling scale),0,PAREDINT
+Duration in early childhood education and care,0,DURECEC
+Grade Repetition,0,REPEAT
+Students expected occupational status (SEI),0,BSMJ
+Number of school changes,0,SCCHANGE
+Number of changes in educational biography (Sum),0,CHANGE
+Disciplinary climate in test language lessons (WLE),0,DISCLIMA
+Teacher support in test language lessons (WLE),0,TEACHSUP
+Teacher-directed instruction (WLE),0,DIRINS
+Adaptation of instruction (WLE),0,ADAPTIVITY
+Perceived teacher's interest (WLE),0,TEACHINT
+Perception of difficulty of the PISA test (WLE),0,PISADIFF
+Attitude towards school: learning activities (WLE),0,ATTLNACT
+Student's awareness of global issues (WLE),0,GCAWARE
+Student's attitudes towards immigrants (WLE),0,ATTIMM
+Student's interest in learning about other cultures (WLE),0,INTCULT
+Subjective well-being: Sense of belonging to school (WLE),0,BELONG
+Information about careers (WLE),0,INFOCAR
+Information about the labour market provided by the school (WLE),0,INFOJOB1
+Information about the labour market provided outside of school (WLE),0,INFOJOB2
+Financial education in school lessons (WLE),0,FLSCHOOL
+Parental involvement in matters of Financial Literacy (WLE),0,FLFAMILY
+Plausible Value 1 in Mathematics,1,PV1MATH
+Plausible Value 2 in Mathematics,1,PV2MATH
+Plausible Value 3 in Mathematics,1,PV3MATH
+Plausible Value 4 in Mathematics,1,PV4MATH
+Plausible Value 5 in Mathematics,1,PV5MATH
+Plausible Value 6 in Mathematics,1,PV6MATH
+Plausible Value 7 in Mathematics,1,PV7MATH
+Plausible Value 8 in Mathematics,1,PV8MATH
+Plausible Value 9 in Mathematics,1,PV9MATH
+Plausible Value 10 in Mathematics,1,PV10MATH
+Plausible Value 1 in Reading,1,PV1READ
+Plausible Value 2 in Reading,1,PV2READ
+Plausible Value 3 in Reading,1,PV3READ
+Plausible Value 4 in Reading,1,PV4READ
+Plausible Value 5 in Reading,1,PV5READ
+Plausible Value 6 in Reading,1,PV6READ
+Plausible Value 7 in Reading,1,PV7READ
+Plausible Value 8 in Reading,1,PV8READ
+Plausible Value 9 in Reading,1,PV9READ
+Plausible Value 10 in Reading,1,PV10READ
+Plausible Value 1 in Science,1,PV1SCIE
+Plausible Value 2 in Science,1,PV2SCIE
+Plausible Value 3 in Science,1,PV3SCIE
+Plausible Value 4 in Science,1,PV4SCIE
+Plausible Value 5 in Science,1,PV5SCIE
+Plausible Value 6 in Science,1,PV6SCIE
+Plausible Value 7 in Science,1,PV7SCIE
+Plausible Value 8 in Science,1,PV8SCIE
+Plausible Value 9 in Science,1,PV9SCIE
+Plausible Value 10 in Science,1,PV10SCIE
+Plausible Value 1 in Global Competency,1,PV1GLCM
+Plausible Value 2 in Global Competency,1,PV2GLCM
+Plausible Value 3 in Global Competency,1,PV3GLCM
+Plausible Value 4 in Global Competency,1,PV4GLCM
+Plausible Value 5 in Global Competency,1,PV5GLCM
+Plausible Value 6 in Global Competency,1,PV6GLCM
+Plausible Value 7 in Global Competency,1,PV7GLCM
+Plausible Value 8 in Global Competency,1,PV8GLCM
+Plausible Value 9 in Global Competency,1,PV9GLCM
+Plausible Value 10 in Global Competency,1,PV10GLCM
+Language of Assessment,2,LANGTEST_COG
+In your home: Books of poetry,2,ST011Q08TA
+"How many in your home: E-book readers (e.g.  Kindle ,  Kobo ,  Bookeen )",2,ST012Q08NA
+How many books are there in your home?,2,ST013Q01TA
+"How much do you agree or disagree? For me, reading is a waste of time.",2,ST160Q04IA
+How often do you read these materials because you want to? Magazines,2,ST167Q01IA
+How often do you read these materials because you want to? Comic books,2,ST167Q02IA
+"How often do you read these materials because you want to? Fiction (novels, narratives, stories)",2,ST167Q03IA
+"How often do you read these materials because you want to? Non-fiction books (informational, documentary)",2,ST167Q04IA
+How often do you read these materials because you want to? Newspapers,2,ST167Q05IA
+Which of the following statements best describes how you read books (on any topic)?,2,ST168Q01HA
+About how much time do you usually spend reading for enjoyment?,2,ST175Q01IA
+How often involved in: Reading emails,2,ST176Q01IA
+How often involved in: Reading online news,2,ST176Q03IA
+Agree: I am a good reader.,2,ST161Q01HA
+Agree: I am able to understand difficult texts.,2,ST161Q02HA
+Agree: I read fluently.,2,ST161Q03HA
+Agree: I have always had difficulty with reading.,2,ST161Q06HA
+Agree: I have to read a text several times before completely understanding it.,2,ST161Q07HA
+"In the PISA test, how do you feel about the reading tasks: There were many words I could not understand.",2,ST163Q02HA
+"In the PISA test, how do you feel about the reading tasks: Many texts were too difficult for me.",2,ST163Q03HA
+"In the PISA test, how do you feel about the reading tasks: I was lost when I had to navigate between different pages.",2,ST163Q04HA
+Usefulness for understanding and memorising text: I concentrate on the parts of the text that are easy to understand.,2,ST164Q01IA
+Usefulness for understanding and memorising text: I quickly read through the text twice.,2,ST164Q02IA
+"Usefulness for understanding and memorising text: After reading the text, I discuss its content with other people.",2,ST164Q03IA
+Usefulness for understanding and memorising text: I underline important parts of the text.,2,ST164Q04IA
+Usefulness for understanding and memorising text: I summarise the text in my own words.,2,ST164Q05IA
+Usefulness for understanding and memorising text: I read the text aloud to another person.,2,ST164Q06IA
+"Usefulness for writing a summary: I write a summary. Then I check that each paragraph is covered in the summary, [...]",2,ST165Q01IA
+Usefulness for writing a summary: I try to copy out accurately as many sentences as possible.,2,ST165Q02IA
+"Usefulness for writing a summary: Before writing the summary, I read the text as many times as possible.",2,ST165Q03IA
+Usefulness for writing a summary: I carefully check whether the most important facts in the text are represented [...],2,ST165Q04IA
+"Usefulness for writing a summary: I read through the text, underlining the most important sentences. Then I write [...]",2,ST165Q05IA
+Do you expect to complete?    level 3B or C ,2,ST225Q02HA
+Do you expect to complete?    level 3A ,2,ST225Q03HA
+Do you expect to complete?    level 5B ,2,ST225Q05HA
+Do you expect to complete?    level 5A or 6 ,2,ST225Q06HA
+  level,2,ISCEDL
+Meta-cognition: understanding and remembering,2,UNDREM
+Meta-cognition: summarising,2,METASUM
+Meta-cognition: assess credibility,2,METASPAM
+Teacher's stimulation of reading engagement perceived by student (WLE),2,STIMREAD
+Joy/Like reading (WLE),2,JOYREAD
+Self-concept of reading: Perception of competence (WLE),2,SCREADCOMP
+Self-concept of reading: Perception of difficulty (WLE),2,SCREADDIFF
+Work mastery (WLE),2,WORKMAST
+Mastery goal orientation (WLE),2,MASTGOAL
+Cognitive flexibility/adaptability (WLE),2,COGFLEX
+FINAL TRIMMED NONRESPONSE ADJUSTED STUDENT WEIGHT,2,W_FSTUWT
+Plausible Value 1 in Cognitive Process Subscale of Reading - Locate Information,2,PV1RCLI
+Plausible Value 2 in Cognitive Process Subscale of Reading - Locate Information,2,PV2RCLI
+Plausible Value 3 in Cognitive Process Subscale of Reading - Locate Information,2,PV3RCLI
+Plausible Value 4 in Cognitive Process Subscale of Reading - Locate Information,2,PV4RCLI
+Plausible Value 5 in Cognitive Process Subscale of Reading - Locate Information,2,PV5RCLI
+Plausible Value 6 in Cognitive Process Subscale of Reading - Locate Information,2,PV6RCLI
+Plausible Value 7 in Cognitive Process Subscale of Reading - Locate Information,2,PV7RCLI
+Plausible Value 8 in Cognitive Process Subscale of Reading - Locate Information,2,PV8RCLI
+Plausible Value 9 in Cognitive Process Subscale of Reading - Locate Information,2,PV9RCLI
+Plausible Value 10 in Cognitive Process Subscale of Reading - Locate Information,2,PV10RCLI
+Plausible Value 1 in Cognitive Process Subscale of Reading - Understand,2,PV1RCUN
+Plausible Value 2 in Cognitive Process Subscale of Reading - Understand,2,PV2RCUN
+Plausible Value 3 in Cognitive Process Subscale of Reading - Understand,2,PV3RCUN
+Plausible Value 4 in Cognitive Process Subscale of Reading - Understand,2,PV4RCUN
+Plausible Value 5 in Cognitive Process Subscale of Reading - Understand,2,PV5RCUN
+Plausible Value 6 in Cognitive Process Subscale of Reading - Understand,2,PV6RCUN
+Plausible Value 7 in Cognitive Process Subscale of Reading - Understand,2,PV7RCUN
+Plausible Value 8 in Cognitive Process Subscale of Reading - Understand,2,PV8RCUN
+Plausible Value 9 in Cognitive Process Subscale of Reading - Understand,2,PV9RCUN
+Plausible Value 10 in Cognitive Process Subscale of Reading - Understand,2,PV10RCUN
+Plausible Value 1 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV1RCER
+Plausible Value 2 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV2RCER
+Plausible Value 3 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV3RCER
+Plausible Value 4 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV4RCER
+Plausible Value 5 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV5RCER
+Plausible Value 6 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV6RCER
+Plausible Value 7 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV7RCER
+Plausible Value 8 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV8RCER
+Plausible Value 9 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV9RCER
+Plausible Value 10 in Cognitive Process Subscale of Reading - Evaluate and Reflect,2,PV10RCER
+Plausible Value 1 in Text Structure Subscale of Reading - Single,2,PV1RTSN
+Plausible Value 2 in Text Structure Subscale of Reading - Single,2,PV2RTSN
+Plausible Value 3 in Text Structure Subscale of Reading - Single,2,PV3RTSN
+Plausible Value 4 in Text Structure Subscale of Reading - Single,2,PV4RTSN
+Plausible Value 5 in Text Structure Subscale of Reading - Single,2,PV5RTSN
+Plausible Value 6 in Text Structure Subscale of Reading - Single,2,PV6RTSN
+Plausible Value 7 in Text Structure Subscale of Reading - Single,2,PV7RTSN
+Plausible Value 8 in Text Structure Subscale of Reading - Single,2,PV8RTSN
+Plausible Value 9 in Text Structure Subscale of Reading - Single,2,PV9RTSN
+Plausible Value 10 in Text Structure Subscale of Reading - Single,2,PV10RTSN
+Plausible Value 1 in Text Structure Subscale of Reading - Multiple,2,PV1RTML
+Plausible Value 2 in Text Structure Subscale of Reading - Multiple,2,PV2RTML
+Plausible Value 3 in Text Structure Subscale of Reading - Multiple,2,PV3RTML
+Plausible Value 4 in Text Structure Subscale of Reading - Multiple,2,PV4RTML
+Plausible Value 5 in Text Structure Subscale of Reading - Multiple,2,PV5RTML
+Plausible Value 6 in Text Structure Subscale of Reading - Multiple,2,PV6RTML
+Plausible Value 7 in Text Structure Subscale of Reading - Multiple,2,PV7RTML
+Plausible Value 8 in Text Structure Subscale of Reading - Multiple,2,PV8RTML
+Plausible Value 9 in Text Structure Subscale of Reading - Multiple,2,PV9RTML
+Plausible Value 10 in Text Structure Subscale of Reading - Multiple,2,PV10RTML
+In your home: A desk to study at,3,ST011Q01TA
+In your home: A computer you can use for school work,3,ST011Q04TA
+In your home: Educational software,3,ST011Q05TA
+In your home: A link to the Internet,3,ST011Q06TA
+In your home:  Technical reference books ,3,ST011Q11TA
+"In your home: Books on art, music, or design",3,ST011Q16NA
+How many in your home: Televisions,3,ST012Q01TA
+How many in your home:  Cell phones  with Internet access (e.g. smartphones),3,ST012Q05NA
+"How many in your home: Computers (desktop computer, portable laptop, or notebook)",3,ST012Q06NA
+"How many in your home:  Tablet computers  (e.g.  iPad ,  BlackBerry PlayBook )",3,ST012Q07NA
+Taught at school: How to decide whether to trust information from the Internet,3,ST158Q02HA
+"Taught at school: To understand the consequences of making information publicly available online on  Facebook , [...]",3,ST158Q04HA
+Taught at school: How to detect phishing or spam emails,3,ST158Q07HA
+Available for you to use at home: Desktop computer,3,IC001Q01TA
+"Available for you to use at home: Portable laptop, or notebook",3,IC001Q02TA
+"Available for you to use at home:  Tablet computer  (e.g.  iPad ,  BlackBerry PlayBook )",3,IC001Q03TA
+Available for you to use at home: Internet connection,3,IC001Q04TA
+"Available for you to use at home:  Video games console , e.g.  Sony PlayStation ",3,IC001Q05TA
+Available for you to use at home:  Cell phone  (without Internet access),3,IC001Q06TA
+Available for you to use at home:  Cell phone  (with Internet access),3,IC001Q07TA
+"Available for you to use at home: Portable music player (Mp3/Mp4 player, iPod or similar)",3,IC001Q08TA
+Available for you to use at home: Printer,3,IC001Q09TA
+Available for you to use at home: USB (memory) stick,3,IC001Q10TA
+"Available for you to use at home:  ebook reader , e.g.  Amazon Kindle ",3,IC001Q11TA
+Available for you to use at school: Desktop computer,3,IC009Q01TA
+Available for you to use at school: Portable laptop or notebook,3,IC009Q02TA
+"Available for you to use at school:  Tablet computer  (e.g.  iPad ,  BlackBerry PlayBook )",3,IC009Q03TA
+Available for you to use at school: Internet connected school computers,3,IC009Q05NA
+Available for you to use at school: Internet connection via wireless network,3,IC009Q06NA
+"Available for you to use at school: Storage space for school-related data, e.g. a folder for own documents",3,IC009Q07NA
+Available for you to use at school: USB (memory) stick,3,IC009Q08TA
+"Available for you to use at school:  ebook reader , e.g.  Amazon Kindle ",3,IC009Q09TA
+"Available for you to use at school: Data projector, e.g. for slide presentations",3,IC009Q10NA
+"Available for you to use at school: Interactive Whiteboard, e.g.  Smartboard ",3,IC009Q11NA
+How old were you when you first used a digital device?,3,IC002Q01HA
+How old were you when you first accessed the Internet?,3,IC004Q01HA
+"During a typical weekday, for how long do you use the Internet at school?",3,IC005Q01TA
+"During a typical weekday, for how long do you use the Internet outside of school?",3,IC006Q01TA
+"On a typical weekend day, for how long do you use the Internet outside of school?",3,IC007Q01TA
+Time spent using digital devices during classroom lessons in a typical school week:  Test language lessons ,3,IC150Q01HA
+Time spent using digital devices during classroom lessons in a typical school week:  Mathematics ,3,IC150Q02HA
+Time spent using digital devices during classroom lessons in a typical school week:  Science ,3,IC150Q03HA
+Time spent using digital devices during classroom lessons in a typical school week:  Foreign language ,3,IC150Q04HA
+Time spent using digital devices during classroom lessons in a typical school week:  Social sciences ,3,IC150Q05HA
+Time spent using digital devices during classroom lessons in a typical school week: Music,3,IC150Q06HA
+Time spent using digital devices during classroom lessons in a typical school week: Sports,3,IC150Q07HA
+Time spent using digital devices during classroom lessons in a typical school week:  Performing arts ,3,IC150Q08HA
+Time spent using digital devices during classroom lessons in a typical school week:  Visual arts ,3,IC150Q09HA
+Time spent using digital devices outside of classroom lessons in a typical school week:  Test language lessons ,3,IC151Q01HA
+Time spent using digital devices outside of classroom lessons in a typical school week:  Mathematics ,3,IC151Q02HA
+Time spent using digital devices outside of classroom lessons in a typical school week:  Science ,3,IC151Q03HA
+Time spent using digital devices outside of classroom lessons in a typical school week:  Foreign language ,3,IC151Q04HA
+Time spent using digital devices outside of classroom lessons in a typical school week:  Social sciences ,3,IC151Q05HA
+Time spent using digital devices outside of classroom lessons in a typical school week: Music,3,IC151Q06HA
+Time spent using digital devices outside of classroom lessons in a typical school week: Sports,3,IC151Q07HA
+Time spent using digital devices outside of classroom lessons in a typical school week:  Performing arts ,3,IC151Q08HA
+Time spent using digital devices outside of classroom lessons in a typical school week:  Visual arts ,3,IC151Q09HA
+Digital device used for learning or teaching during lessons within the last month:  Test language lessons ,3,IC152Q01HA
+Digital device used for learning or teaching during lessons within the last month:  Mathematics ,3,IC152Q02HA
+Digital device used for learning or teaching during lessons within the last month:  Science ,3,IC152Q03HA
+Digital device used for learning or teaching during lessons within the last month:  Foreign language ,3,IC152Q04HA
+Digital device used for learning or teaching during lessons within the last month:  Social sciences ,3,IC152Q05HA
+Digital device used for learning or teaching during lessons within the last month: Music,3,IC152Q06HA
+Digital device used for learning or teaching during lessons within the last month: Sports,3,IC152Q07HA
+Digital device used for learning or teaching during lessons within the last month:  Performing arts ,3,IC152Q08HA
+Digital device used for learning or teaching during lessons within the last month:  Visual arts ,3,IC152Q09HA
+Use digital devices outside of school: Playing one-player games.,3,IC008Q01TA
+Use digital devices outside of school: Playing collaborative online games.,3,IC008Q02TA
+Use digital devices outside of school: Using email.,3,IC008Q03TA
+Use digital devices outside of school:  Chatting online  (e.g.  MSN ).,3,IC008Q04TA
+"Use digital devices outside of school: Participating in Social Networks (e.g.  Facebook ,  MySpace ).",3,IC008Q05TA
+"Use digital devices outside of school: Playing online games via Social Networks (e.g.  Farmville ,  The Sims Social ).",3,IC008Q07NA
+"Use digital devices outside of school: Browsing the Internet for fun (such as watching videos, e.g.  YouTube ).",3,IC008Q08TA
+Use digital devices outside of school: Reading news on the Internet (e.g. current affairs).,3,IC008Q09TA
+Use digital devices outside of school: Obtaining practical information from the Internet [...],3,IC008Q10TA
+"Use digital devices outside of school: Downloading music, films, games or software from the Internet.",3,IC008Q11TA
+Use digital devices outside of school: Uploading your own created contents for sharing [...],3,IC008Q12TA
+Use digital devices outside of school: Downloading new apps on a mobile device.,3,IC008Q13NA
+Use digital devices outside of school: Browsing the Internet for schoolwork [...],3,IC010Q01TA
+Language at home (3-digit code),3,LANGN
+ICT available at home,3,ICTHOME
+ICT available at school,3,ICTSCH
+Home educational resources (WLE),3,HEDRES
+ICT resources (WLE),3,ICTRES
+ICT use outside of school (leisure) (WLE),3,ENTUSE
+Use of ICT outside of school (for school work activities) (WLE),3,HOMESCH
+Subject-related ICT use during lessons (WLE),3,ICTCLASS
+Subject-related ICT use outside of lessons (WLE),3,ICTOUTSIDE
+National Centre 6-digit Code,4,NatCen
+Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID),4,SUBNATIO
+OECD country,4,OECD
+Mode of Respondent,4,ADMINMODE
+Language of Questionnaire,4,LANGTEST_QQQ
+Form Identifier,4,BOOKID
+In your home: A room of your own,4,ST011Q02TA
+In your home: Classic literature (e.g.  Shakespeare ),4,ST011Q07TA
+In your home: Works of art (e.g. paintings),4,ST011Q09TA
+In your home: A dictionary,4,ST011Q12TA
+In your home:  Country-specific wealth item 1 ,4,ST011D17TA
+In your home:  Country-specific wealth item 2 ,4,ST011D18TA
+In your home:  Country-specific wealth item 3 ,4,ST011D19TA
+How many in your home: Cars,4,ST012Q02TA
+How many in your home: Rooms with a bath or shower,4,ST012Q03TA
+"How many in your home: Musical instruments (e.g. guitar, piano)",4,ST012Q09NA
+In what country were you and your parents born? You,4,ST019AQ01T
+In what country were you and your parents born? Mother,4,ST019BQ01T
+In what country were you and your parents born? Father,4,ST019CQ01T
+What language do you speak at home most of the time?,4,ST022Q01TA
+Which language do you usually speak with: My mother,4,ST023Q01TA
+Which language do you usually speak with: My father,4,ST023Q02TA
+Which language do you usually speak with: My brother(s) and/or sister(s),4,ST023Q03TA
+Which language do you usually speak with: My best friend,4,ST023Q04TA
+How much do you agree or disagree? I read only if I have to.,4,ST160Q01IA
+How much do you agree or disagree? Reading is one of my favourite hobbies.,4,ST160Q02IA
+How much do you agree or disagree? I like talking about books with other people.,4,ST160Q03IA
+How much do you agree or disagree? I read only to get information that I need.,4,ST160Q05IA
+"How often involved in:  Chat on line  (e.g.  Whatsapp ,  Messenger )",4,ST176Q02IA
+How often involved in: Taking part in online group discussions or forums,4,ST176Q06IA
+"How often involved in: Searching for practical information online (e.g. schedules, events, tips, recipes)",4,ST176Q07IA
+Agree: I find it difficult to answer questions about a text.,4,ST161Q08HA
+How appropriate in reaction to this email: Answer the email and ask for more information about the smartphone,4,ST166Q01HA
+How appropriate in reaction to this email: Check the sender's email address,4,ST166Q02HA
+How appropriate in reaction to this email: Click on the link to fill out the form as soon as possible,4,ST166Q03HA
+How appropriate in reaction to this email: Delete the email without clicking on the link,4,ST166Q04HA
+How appropriate in reaction to this email: Check the website of the mobile phone operator to see whether [...],4,ST166Q05HA
+"Overall, how satisfied are you with your life as a whole these days?",4,ST016Q01NA
+Do you expect to complete?    level 2 ,4,ST225Q01HA
+Agree: I enjoy working in situations involving competition with others.,4,ST181Q02HA
+Agree: It is important for me to perform better than other people on a task.,4,ST181Q03HA
+Agree: I try harder when Im in competition with other people.,4,ST181Q04HA
+Agree: I find satisfaction in working as hard as I can.,4,ST182Q03HA
+"Agree: Once I start a task, I persist until it is finished.",4,ST182Q04HA
+Agree: Part of the enjoyment I get from doing things is when I improve on my past performance.,4,ST182Q05HA
+"Agree: If I am not good at something, I would rather keep struggling to master it than move on to something I may [...]",4,ST182Q06HA
+"Agree: When I am failing, I worry about what others think of me.",4,ST183Q01HA
+"Agree: When I am failing, I am afraid that I might not have enough talent.",4,ST183Q02HA
+"Agree: When I am failing, this makes me doubt my plans for the future.",4,ST183Q03HA
+Agree: Your intelligence is something about you that you can't change very much.,4,ST184Q01HA
+Agree: My life has clear meaning or purpose.,4,ST185Q01HA
+Agree: I have discovered a satisfactory meaning in life.,4,ST185Q02HA
+Agree: I have a clear sense of what gives meaning to my life.,4,ST185Q03HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Happy,4,ST186Q05HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Scared,4,ST186Q06HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Lively,4,ST186Q07HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Miserable,4,ST186Q10HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Proud,4,ST186Q09HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Afraid,4,ST186Q02HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Joyful,4,ST186Q01HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Sad,4,ST186Q08HA
+Thinking about yourself and how you normally feel: how often do you feel as described below? Cheerful,4,ST186Q03HA
+How true for you: My goal is to learn as much as possible.,4,ST208Q01HA
+How true for you: My goal is to completely master the material presented in my classes.,4,ST208Q02HA
+Agree: I usually manage one way or another.,4,ST188Q01HA
+Agree: I feel proud that I have accomplished things.,4,ST188Q02HA
+Agree: I feel that I can handle many things at a time.,4,ST188Q03HA
+Agree: My belief in myself gets me through hard times.,4,ST188Q06HA
+"Agree: When Im in a difficult situation, I can usually find my way out of it.",4,ST188Q07HA
+How easy to perform on your own: Explain how carbon-dioxide emissions affect global climate change,4,ST196Q02HA
+How easy to perform on your own: Establish a connection between prices of textiles and working conditions in the [...],4,ST196Q03HA
+How easy to perform on your own: Discuss the different reasons why people become refugees,4,ST196Q04HA
+How easy to perform on your own: Explain why some countries suffer more from global climate change than others,4,ST196Q05HA
+How easy to perform on your own: Explain how economic crises in single countries affect the global economy,4,ST196Q06HA
+How easy to perform on your own: Discuss the consequences of economic development on the environment,4,ST196Q07HA
+How informed are you about the following topics? Climate change and global warming,4,ST197Q01HA
+How informed are you about the following topics? Global health (e.g. epidemics),4,ST197Q02HA
+How informed are you about the following topics? Migration (movement of people),4,ST197Q04HA
+How informed are you about the following topics? International conflicts,4,ST197Q07HA
+How informed are you about the following topics? Hunger or malnutrition in different parts of the world,4,ST197Q08HA
+How informed are you about the following topics? Causes of poverty,4,ST197Q09HA
+How informed are you about the following topics? Equality between men and women in different parts of the world,4,ST197Q12HA
+How well does the following describe you: I try to look at everybody's side of a disagreement before I make a decision.,4,ST215Q01HA
+How well does the following describe you: I believe that there are two sides to every question and try to look at [...],4,ST215Q02HA
+How well does the following describe you: I sometimes try to understand my friends better by imagining how things [...],4,ST215Q03HA
+"How well does the following describe you: Before criticizing somebody, I try to imagine how I would feel if I were [...]",4,ST215Q04HA
+"How well does the following describe you: When I'm upset at someone, I try to take the perspective of that person [...]",4,ST215Q05HA
+How well does the following describe you: I can deal with unusual situations.,4,ST216Q01HA
+How well does the following describe you: I can change my behaviour to meet the needs of new situations.,4,ST216Q02HA
+How well does the following describe you: I can adapt to different situations even when under stress or pressure.,4,ST216Q03HA
+How well does the following describe you: I can adapt easily to a new culture.,4,ST216Q04HA
+"How well does the following describe you: When encountering difficult situations with other people, I can think of [...]",4,ST216Q05HA
+How well does the following describe you: I am capable of overcoming my difficulties in interacting with people [...],4,ST216Q06HA
+Intercultural communication: I carefully observe their reactions.,4,ST218Q01HA
+Intercultural communication: I frequently check that we are understanding each other correctly.,4,ST218Q02HA
+Intercultural communication: I listen carefully to what they say.,4,ST218Q03HA
+Intercultural communication: I choose my words carefully.,4,ST218Q04HA
+Intercultural communication: I give concrete examples to explain my ideas.,4,ST218Q05HA
+Intercultural communication: I explain things very carefully.,4,ST218Q06HA
+"Intercultural communication: If there is a problem with communication, I find ways around it [...]",4,ST218Q07HA
+Involved in: I reduce the energy I use at home [...] to protect the environment.,4,ST222Q01HA
+"Involved in: I choose certain products for ethical or environmental reasons, even if they are a bit more expensive.",4,ST222Q03HA
+Involved in: I sign environmental or social petitions online.,4,ST222Q04HA
+Involved in: I keep myself informed about world events via  Twitter  or  Facebook .,4,ST222Q05HA
+"Involved in: I boycott products or companies for political, ethical or environmental reasons.",4,ST222Q06HA
+Involved in: I participate in activities promoting equality between men and women.,4,ST222Q08HA
+Involved in: I participate in activities in favour of environmental protection.,4,ST222Q09HA
+"Involved in: I regularly read websites on international social issues (e.g. poverty, human rights).",4,ST222Q10HA
+How well does the following describe you: I want to learn how people live in different countries.,4,ST214Q01HA
+How well does the following describe you: I want to learn more about the religions of the world.,4,ST214Q02HA
+How well does the following describe you: I am interested in how people from various cultures see the world.,4,ST214Q03HA
+How well does the following describe you: I am interested in finding out about the traditions of other cultures.,4,ST214Q06HA
+Do you have contact with people from other countries? In your family,4,ST220Q01HA
+Do you have contact with people from other countries? At school,4,ST220Q02HA
+Do you have contact with people from other countries? In your neighbourhood,4,ST220Q03HA
+Do you have contact with people from other countries? In your circle of friends,4,ST220Q04HA
+How well does the following describe you: I respect people from other cultures as equal human beings.,4,ST217Q01HA
+How well does the following describe you: I treat all people with respect regardless of their cultural background.,4,ST217Q02HA
+How well does the following describe you: I give space to people from other cultures to express themselves.,4,ST217Q03HA
+How well does the following describe you: I respect the values of people from different cultures.,4,ST217Q04HA
+How well does the following describe you: I value the opinions of people from different cultures.,4,ST217Q05HA
+Agree: I think of myself as a citizen of the world.,4,ST219Q01HA
+"Agree: When I see the poor conditions that some people in the world live under, I feel a responsibility to do [...]",4,ST219Q02HA
+Agree: I think my behaviour can impact people in other countries.,4,ST219Q03HA
+Agree: It is right to boycott companies that are known to provide poor workplace conditions for their employees.,4,ST219Q04HA
+Agree: I can do something about the problems of the world.,4,ST219Q05HA
+Agree: Looking after the global environment is important to me.,4,ST219Q06HA
+Agree: Immigrants who live in a country for several years should have the opportunity to vote in elections.,4,ST204Q03HA
+Agree: Immigrants should have the opportunity to continue their own customs and lifestyle.,4,ST204Q04HA
+Agree: Immigrants should have all the same rights that everyone else in the country has.,4,ST204Q05HA
+How many languages [...] do you and your parents speak well enough to converse with others? You,4,ST177Q01HA
+How many languages [...] do you and your parents speak well enough to converse with others? Your mother,4,ST177Q02HA
+How many languages [...] do you and your parents speak well enough to converse with others? Your father,4,ST177Q03HA
+Find out about future study or types of work: I did an internship.,4,EC150Q01WA
+Find out about future study or types of work: I attended  job shadowing or work-site visits .,4,EC150Q02WA
+Find out about future study or types of work: I visited a  job fair .,4,EC150Q03WA
+Find out about future study or types of work: I completed a questionnaire to find out about my interests and abilities.,4,EC150Q06WA
+Find out about future study or types of work: I researched the Internet for information about careers.,4,EC150Q07WA
+Find out about future study or types of work: I went to an organised tour in an    3-5  institution.,4,EC150Q08WA
+Find out about future study or types of work: I researched the Internet for information about    3-5  programmes.,4,EC150Q09WA
+What do you think you will be doing 5 years from now?,4,EC152Q01HA
+Importance for decisions about future occupation: My parents' or guardians' expectations about my occupation,4,EC153Q01HA
+Importance for decisions about future occupation: Employment opportunities for the occupation I want,4,EC153Q10HA
+How is your health?,4,WB150Q01HA
+Encountered in a school lesson in the last 12 months: Discussing the rights of consumers when dealing with [...],4,FL166Q05HA
+"Get information about money matters (spending, saving, banking, investment): Parents/guardians or other adult relations",4,FL153Q01HA
+"Get information about money matters (spending, saving, banking, investment): Friends",4,FL153Q02HA
+"Get information about money matters (spending, saving, banking, investment): Television or radio",4,FL153Q03HA
+"Get information about money matters (spending, saving, banking, investment): The Internet",4,FL153Q04HA
+"Get information about money matters (spending, saving, banking, investment): Magazines",4,FL153Q05HA
+Discuss the following with your parents (or guardians or relatives): Your spending decisions,4,FL167Q01HA
+Discuss the following with your parents (or guardians or relatives): Your savings decisions,4,FL167Q02HA
+Discuss the following with your parents (or guardians or relatives): The family budget,4,FL167Q03HA
+Discuss the following with your parents (or guardians or relatives): Money for things you want to buy,4,FL167Q04HA
+Discuss the following with your parents (or guardians or relatives): News related to economics or finance,4,FL167Q05HA
+Do you get money from any of these sources? An allowance or pocket money for regularly doing chores at home,4,FL156Q01TA
+"Do you get money from any of these sources? An allowance or pocket money, without having to do any chores",4,FL156Q02TA
+Do you get money from any of these sources? Working in a family business,4,FL156Q04TA
+Do you get money from any of these sources? Occasional informal jobs (e.g. baby-sitting or gardening),4,FL156Q05TA
+Do you get money from any of these sources? Gifts from friends or relatives,4,FL156Q06TA
+Do you get money from any of these sources? Selling things (e.g. at local markets or on [eBay]),4,FL156Q07HA
+Agree: I can decide independently what to spend my money on.,4,FL159Q01HA
+"Agree: I can spend small amounts of my money independently, but for larger amounts I need to ask my parents or [...]",4,FL159Q02HA
+Agree: I need to ask my parents or guardians for permission before I spend any money on my own.,4,FL159Q03HA
+Agree: I am responsible for my own money matters (e.g. for preventing theft).,4,FL159Q04HA
+Think about buying a new product from your allowance: Compare prices in different shops,4,FL160Q01HA
+Think about buying a new product from your allowance: Compare prices between a shop and an online shop,4,FL160Q02HA
+Think about buying a new product from your allowance: Buy the product without comparing prices,4,FL160Q03HA
+Think about buying a new product from your allowance: Wait until the product gets cheaper before buying it,4,FL160Q04HA
+"Do you have any of the following things? An account with a [bank, building society, post office or credit union]",4,FL161Q01HA
+Do you have any of the following things? A payment card/debit card,4,FL161Q02HA
+Do you have any of the following things? A mobile app to access your account,4,FL161Q03HA
+Confidence about doing the following: Making a money transfer (e.g. paying a bill),4,FL162Q01HA
+Confidence about doing the following: Filling in forms at the bank,4,FL162Q02HA
+Confidence about doing the following: Understanding bank statements,4,FL162Q03HA
+Confidence about doing the following: Keeping track of my account balance,4,FL162Q05HA
+Confidence about doing the following: Planning my spending with consideration of my current financial situation,4,FL162Q06HA
+In the last 12 months: Checked that you were given the right change when you bought something,4,FL168Q01HA
+How much effort would you have invested?,4,EFFORT2
+ISCO-08 Occupation code - Mother,4,OCOD1
+ISCO-08 Occupation code - Father,4,OCOD2
+ISCO-08 Occupation code - Self,4,OCOD3
+Unique national study programme code,4,PROGN
+Country of Birth National Categories- Self,4,COBN_S
+Country of Birth National Categories- Mother,4,COBN_M
+Country of Birth National Categories- Father,4,COBN_F
+  designation,4,ISCEDD
+  orientation,4,ISCEDO
+ISEI of mother,4,BMMJ1
+ISEI of father,4,BFMJ2
+Index highest parental occupational status,4,HISEI
+Index Immigration status,4,IMMIG
+Familiarity with concepts of finance (Sum),4,FCFMLRTY
+"Index of economic, social and cultural status",4,ESCS
+Home possessions (WLE),4,HOMEPOS
+Cultural possessions at home (WLE),4,CULTPOSS
+Family wealth (WLE),4,WEALTH
+Perceived feedback (WLE),4,PERFEED
+Competitiveness (WLE),4,COMPETE
+General fear of failure (WLE),4,GFOFAIL
+Eudaemonia: meaning in life (WLE),4,EUDMO
+Subjective well-being: Positive affect (WLE),4,SWBP
+Resilience (WLE),4,RESILIENCE
+Self-efficacy regarding global issues (WLE),4,GCSELFEFF
+Perspective-taking (WLE),4,PERSPECT
+Respect for people from other cultures (WLE),4,RESPECT
+Awareness of intercultural communication (WLE),4,AWACOM
+Global-mindedness (WLE),4,GLOBMIND
+Confidence about financial matters (WLE),4,FLCONFIN
+REP_BWGT: RANDOMLY ASSIGNED UNIT NUMBER,4,UNIT
+RANDOMIZED FINAL VARIANCE STRATUM (1-80),4,WVARSTRR
+Senate Weight (sum of 5000 per country),4,SENWT

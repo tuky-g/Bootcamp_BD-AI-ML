@@ -1,0 +1,40 @@
+,question,cluster,key
+0,Senate Weight (sum of 5000 per country),0,SENWT
+1,ISCO-08 Occupation code - Self,1,OCOD3
+2,Mastery goal orientation (WLE),1,MASTGOAL
+3,Self-efficacy regarding global issues (WLE),1,GCSELFEFF
+4,Student International Grade (Derived),3,ST001D01T
+5,Students expected occupational status (SEI),3,BSMJ
+6,Student's awareness of global issues (WLE),3,GCAWARE
+7,Plausible Value 9 in Mathematics,4,PV9MATH
+8,Plausible Value 3 in Reading,4,PV3READ
+9,Plausible Value 9 in Reading,4,PV9READ
+10,Plausible Value 1 in Global Competency,4,PV1GLCM
+11,Plausible Value 4 in Cognitive Process Subscale of Reading - Locate Information,4,PV4RCLI
+12,Plausible Value 8 in Cognitive Process Subscale of Reading - Locate Information,4,PV8RCLI
+13,Plausible Value 9 in Cognitive Process Subscale of Reading - Locate Information,4,PV9RCLI
+14,Plausible Value 10 in Cognitive Process Subscale of Reading - Locate Information,4,PV10RCLI
+15,Plausible Value 3 in Cognitive Process Subscale of Reading - Understand,4,PV3RCUN
+16,Plausible Value 5 in Cognitive Process Subscale of Reading - Understand,4,PV5RCUN
+17,Plausible Value 7 in Cognitive Process Subscale of Reading - Understand,4,PV7RCUN
+18,Plausible Value 8 in Cognitive Process Subscale of Reading - Understand,4,PV8RCUN
+19,Plausible Value 1 in Cognitive Process Subscale of Reading - Evaluate and Reflect,4,PV1RCER
+20,Plausible Value 3 in Cognitive Process Subscale of Reading - Evaluate and Reflect,4,PV3RCER
+21,Plausible Value 4 in Cognitive Process Subscale of Reading - Evaluate and Reflect,4,PV4RCER
+22,Plausible Value 6 in Cognitive Process Subscale of Reading - Evaluate and Reflect,4,PV6RCER
+23,Plausible Value 7 in Cognitive Process Subscale of Reading - Evaluate and Reflect,4,PV7RCER
+24,Plausible Value 8 in Cognitive Process Subscale of Reading - Evaluate and Reflect,4,PV8RCER
+25,Plausible Value 10 in Cognitive Process Subscale of Reading - Evaluate and Reflect,4,PV10RCER
+26,Plausible Value 2 in Text Structure Subscale of Reading - Single,4,PV2RTSN
+27,Plausible Value 3 in Text Structure Subscale of Reading - Single,4,PV3RTSN
+28,Plausible Value 5 in Text Structure Subscale of Reading - Single,4,PV5RTSN
+29,Plausible Value 6 in Text Structure Subscale of Reading - Single,4,PV6RTSN
+30,Plausible Value 8 in Text Structure Subscale of Reading - Single,4,PV8RTSN
+31,Plausible Value 9 in Text Structure Subscale of Reading - Single,4,PV9RTSN
+32,Plausible Value 10 in Text Structure Subscale of Reading - Single,4,PV10RTSN
+33,Plausible Value 1 in Text Structure Subscale of Reading - Multiple,4,PV1RTML
+34,Plausible Value 4 in Text Structure Subscale of Reading - Multiple,4,PV4RTML
+35,Plausible Value 6 in Text Structure Subscale of Reading - Multiple,4,PV6RTML
+36,Plausible Value 7 in Text Structure Subscale of Reading - Multiple,4,PV7RTML
+37,Plausible Value 8 in Text Structure Subscale of Reading - Multiple,4,PV8RTML
+38,Plausible Value 10 in Text Structure Subscale of Reading - Multiple,4,PV10RTML
