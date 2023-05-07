@@ -112,7 +112,7 @@ st.write('Has seleccionado:', topic)
 def create_wordcloud(topic):
     word=list(pd.read_csv('/app/bootcamp_bd-ai-ml/project/streamlit/wordclouds/words_'+str(topic)+'.csv')['0'])
 
-    wordcloud = WordCloud(max_font_size=50, max_words=100,font_path=".fonts/arial/arial.ttf", background_color="white").generate(' '.join(word))
+    wordcloud = WordCloud(max_font_size=50, max_words=100,font_path="/app/bootcamp_bd-ai-ml/project/streamlit/fonts/arial/arial.ttf", background_color="white").generate(' '.join(word))
     return wordcloud
 
 
