@@ -46,8 +46,8 @@ def prepara_df(df_pred):
     return df_pred
 
 # precargo el modelo
-scaler_riesgo=joblib.load('models/RiesgoAbandono/Knn_Scaler.joblib')
-model_riesgo=joblib.load('models/RiesgoAbandono/knn_st.joblib')
+#scaler_riesgo=joblib.load('models/RiesgoAbandono/Knn_Scaler.joblib')
+model_riesgo=joblib.load('/app/bootcamp_bd-ai-ml/project/streamlit/knn_st.joblib')
 
 # scores de twitter
 score_cluster0=float(0.23068260869565216)
