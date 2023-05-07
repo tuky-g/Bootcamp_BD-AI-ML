@@ -2,3 +2,4 @@ joblib
 pandas
 matplotlib
 wordcloud
+sklearn
