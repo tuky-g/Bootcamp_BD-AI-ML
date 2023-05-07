@@ -2,4 +2,4 @@ joblib
 pandas
 matplotlib
 wordcloud
-sklearn
+scikit-learn>=0.18
